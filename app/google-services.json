@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1045495588660",
+    "firebase_url": "https://form-discuss1.firebaseio.com",
+    "project_id": "form-discuss1",
+    "storage_bucket": "form-discuss1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045495588660:android:8848bb7ff3b27b5303e761",
+        "android_client_info": {
+          "package_name": "com.bluehat.formdiscuss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045495588660-nucehpdkhvcef39pst9fqqphknpi47s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWG7prhxgSgIOeulMe7KYTSbTaUDR8eKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045495588660-nucehpdkhvcef39pst9fqqphknpi47s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
